@@ -3,7 +3,7 @@
       <h2>New Feature 1</h2>
 
       <div class="q-mb-xl">
-        <q-btn to="/" style="width: 150px;" size="lg" color="purple" text-color="white" label="Home" />
+        <q-btn to="/" style="width: 150px;" size="lg" color="orange" text-color="white" label="Home" />
       </div>
     </q-page>
   </template>
