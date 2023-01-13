@@ -1,10 +1,16 @@
 <template>
-  <q-page class="flex flex-center">
-    <img
-      alt="Quasar logo"
-      src="~assets/quasar-logo-vertical.svg"
-      style="width: 200px; height: 200px"
-    >
+  <q-page class="column">
+    <div class="flex flex-center col-grow">
+      <img
+        alt="Quasar logo"
+        src="~assets/quasar-logo-vertical.svg"
+        style="width: 200px; height: 200px"
+      >
+    </div>
+
+    <div class="row justify-center q-pa-xl">
+      <q-btn to="/new-feature-1" style="width: 200px;" size="lg" color="purple" text-color="white" label="New Feature 1" />
+    </div>
   </q-page>
 </template>
 
