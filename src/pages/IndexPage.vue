@@ -9,7 +9,7 @@
     </div>
 
     <div class="row justify-center q-pa-xl">
-      <q-btn to="/new-feature-1" style="width: 200px;" size="lg" color="purple" text-color="white" label="New Feature 1" />
+      <q-btn to="/new-feature-1" style="width: 200px;" size="lg" color="orange" text-color="white" label="New Feature 1" />
     </div>
   </q-page>
 </template>
